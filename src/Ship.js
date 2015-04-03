@@ -1,7 +1,7 @@
 var Ship = cc.Sprite.extend({
     ctor: function() {
         this._super();
-        this.initWithFile( 'res/images/ship.png' );
+        this.initWithFile( res.ship_pic );
     },
     
     move: function( keyCode ){

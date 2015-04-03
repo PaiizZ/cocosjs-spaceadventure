@@ -1,4 +1,6 @@
 var res = {
+	ship_pic : 'res/images/ship.png',
+	bullet_pic : 'res/images/bullet.png'
 };
 
 var g_resources = [];
